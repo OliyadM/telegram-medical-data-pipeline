@@ -1,5 +1,6 @@
 .env
+*.session
 __pycache__/
-data/
 *.pyc
-*.log
+data/raw/
+data/raw/telegram_images/
