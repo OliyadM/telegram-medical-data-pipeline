@@ -1,0 +1,229 @@
+[0m17:43:22.713300 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99A0F0F50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99A9B5B80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99761FC50>]}
+
+
+============================== 17:43:22.724777 | a155926a-5b41-4de0-b803-027bda3f466d ==============================
+[0m17:43:22.724777 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:43:22.726697 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'debug': 'False', 'warn_error': 'None', 'log_path': 'logs', 'fail_fast': 'False', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'static_parser': 'True', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'invocation_command': 'dbt init telegram_dbt', 'send_anonymous_usage_stats': 'True'}
+[0m17:43:22.804219 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Misirak\.dbt
+[0m17:43:22.810899 [debug] [MainThread]: Starter project path: C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\include\starter_project
+[0m17:43:22.878184 [info ] [MainThread]: 
+Your new dbt project "telegram_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:43:22.881026 [info ] [MainThread]: Setting up your profile.
+[0m17:45:29.772979 [error] [MainThread]: Encountered an error:
+
+[0m17:45:29.830489 [error] [MainThread]: Traceback (most recent call last):
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\requires.py", line 161, in wrapper
+    result, success = func(*args, **kwargs)
+                      ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\requires.py", line 111, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\main.py", line 483, in init
+    results = task.run()
+              ^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 346, in run
+    self.setup_profile(profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 262, in setup_profile
+    self.create_profile_from_target(adapter, profile_name=profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 179, in create_profile_from_target
+    self.create_profile_from_profile_template(profile_template, profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 163, in create_profile_from_profile_template
+    target = self.generate_target_from_input(prompts, initial_target)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 129, in generate_target_from_input
+    target[key] = click.prompt(
+                  ^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\click\termui.py", line 168, in prompt
+    value = prompt_func(prompt)
+            ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\click\termui.py", line 151, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m17:45:29.834488 [debug] [MainThread]: Command `dbt init` failed at 17:45:29.834488 after 127.48 seconds
+[0m17:45:29.835591 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99A41A240>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99A7EEF00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001B99AC16330>]}
+[0m17:45:29.837495 [debug] [MainThread]: Flushing usage events
+[0m17:45:30.798366 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:45:43.279484 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000253416DEDB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025341516BD0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025341517890>]}
+
+
+============================== 17:45:43.291377 | eca00c4b-edcb-4ca6-873d-d0add40fc634 ==============================
+[0m17:45:43.291377 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:45:43.293747 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt init telegram_dbt', 'log_format': 'default', 'introspect': 'True', 'target_path': 'None', 'static_parser': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:45:43.370379 [info ] [MainThread]: A project called telegram_dbt already exists here.
+[0m17:45:43.378824 [debug] [MainThread]: Command `dbt init` succeeded at 17:45:43.377562 after 0.55 seconds
+[0m17:45:43.381903 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025341D8D4C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025341AE0860>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000025341383A40>]}
+[0m17:45:43.383946 [debug] [MainThread]: Flushing usage events
+[0m17:45:44.224466 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:48:34.820146 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E3507DD5B0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E350687E00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E353A408F0>]}
+
+
+============================== 17:48:34.830592 | 8c47e3db-1164-446f-a97d-102c564d3748 ==============================
+[0m17:48:34.830592 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:48:34.833497 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'version_check': 'True', 'debug': 'False', 'log_path': 'logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt init telegram_dbt', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:48:34.907055 [debug] [MainThread]: Starter project path: C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\include\starter_project
+[0m17:48:34.949824 [info ] [MainThread]: 
+Your new dbt project "telegram_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:48:34.951820 [info ] [MainThread]: Setting up your profile.
+[0m17:50:10.122160 [error] [MainThread]: Encountered an error:
+
+[0m17:50:10.129161 [error] [MainThread]: Traceback (most recent call last):
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\requires.py", line 161, in wrapper
+    result, success = func(*args, **kwargs)
+                      ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\requires.py", line 111, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\cli\main.py", line 483, in init
+    results = task.run()
+              ^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 346, in run
+    self.setup_profile(profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 262, in setup_profile
+    self.create_profile_from_target(adapter, profile_name=profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 179, in create_profile_from_target
+    self.create_profile_from_profile_template(profile_template, profile_name)
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 163, in create_profile_from_profile_template
+    target = self.generate_target_from_input(prompts, initial_target)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\task\init.py", line 129, in generate_target_from_input
+    target[key] = click.prompt(
+                  ^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\click\termui.py", line 168, in prompt
+    value = prompt_func(prompt)
+            ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\click\termui.py", line 151, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m17:50:10.135040 [debug] [MainThread]: Command `dbt init` failed at 17:50:10.134046 after 95.66 seconds
+[0m17:50:10.136046 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E3533B7470>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E354D26840>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001E354DB39E0>]}
+[0m17:50:10.141037 [debug] [MainThread]: Flushing usage events
+[0m17:50:11.221849 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:51:04.340085 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24BA66C90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24B5C08F0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24C08E7B0>]}
+
+
+============================== 17:51:04.352286 | 3f397865-7f72-49e7-8260-e9c6e959e269 ==============================
+[0m17:51:04.352286 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:51:04.353290 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt init telegram_dbt', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m17:51:04.420434 [debug] [MainThread]: Starter project path: C:\Users\Misirak\AppData\Local\Programs\Python\Python312\Lib\site-packages\dbt\include\starter_project
+[0m17:51:04.471804 [info ] [MainThread]: 
+Your new dbt project "telegram_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m17:51:04.473733 [info ] [MainThread]: Setting up your profile.
+[0m17:52:06.379106 [info ] [MainThread]: Profile telegram_dbt written to C:\Users\Misirak\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m17:52:06.383104 [debug] [MainThread]: Command `dbt init` succeeded at 17:52:06.382106 after 62.56 seconds
+[0m17:52:06.384103 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24D234C80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24B6BED80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001D24BA66C90>]}
+[0m17:52:06.386101 [debug] [MainThread]: Flushing usage events
+[0m17:52:07.514971 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m17:52:34.067946 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E35935BB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E356F9A90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E35E68FB0>]}
+
+
+============================== 17:52:34.078012 | 0ba08176-b6d8-4800-a343-f41a8e5e50ec ==============================
+[0m17:52:34.078012 [info ] [MainThread]: Running with dbt=1.10.4
+[0m17:52:34.080332 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'static_parser': 'True', 'invocation_command': 'dbt debug --profile telegram_dbt', 'introspect': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True'}
+[0m17:52:34.146801 [info ] [MainThread]: dbt version: 1.10.4
+[0m17:52:34.149007 [info ] [MainThread]: python version: 3.12.0
+[0m17:52:34.150011 [info ] [MainThread]: python path: C:\Users\Misirak\AppData\Local\Programs\Python\Python312\python.exe
+[0m17:52:34.152415 [info ] [MainThread]: os info: Windows-11-10.0.26100-SP0
+[0m17:52:34.331861 [info ] [MainThread]: Using profiles dir at C:\Users\Misirak\.dbt
+[0m17:52:34.334864 [info ] [MainThread]: Using profiles.yml file at C:\Users\Misirak\.dbt\profiles.yml
+[0m17:52:34.336863 [info ] [MainThread]: Using dbt_project.yml file at C:\Users\Misirak\Desktop\ooo\telegram-medical-data-pipeline\dbt_project.yml
+[0m17:52:34.339866 [info ] [MainThread]: adapter type: postgres
+[0m17:52:34.341865 [info ] [MainThread]: adapter version: 1.9.0
+[0m17:52:34.343865 [info ] [MainThread]: Configuration:
+[0m17:52:34.344865 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m17:52:34.346867 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m17:52:34.348861 [info ] [MainThread]: Required dependencies:
+[0m17:52:34.350864 [debug] [MainThread]: Executing "git --help"
+[0m17:52:34.454773 [debug] [MainThread]: STDOUT: "b"usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--config-env=<name>=<envvar>] <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m17:52:34.456759 [debug] [MainThread]: STDERR: "b''"
+[0m17:52:34.457759 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m17:52:34.458758 [info ] [MainThread]: Connection:
+[0m17:52:34.461593 [info ] [MainThread]:   host: localhost
+[0m17:52:34.462606 [info ] [MainThread]:   port: 5432
+[0m17:52:34.464608 [info ] [MainThread]:   user: postgres
+[0m17:52:34.466622 [info ] [MainThread]:   database: telegram_db
+[0m17:52:34.468622 [info ] [MainThread]:   schema: raw
+[0m17:52:34.471624 [info ] [MainThread]:   connect_timeout: 10
+[0m17:52:34.473626 [info ] [MainThread]:   role: None
+[0m17:52:34.474626 [info ] [MainThread]:   search_path: None
+[0m17:52:34.476626 [info ] [MainThread]:   keepalives_idle: 0
+[0m17:52:34.478625 [info ] [MainThread]:   sslmode: None
+[0m17:52:34.481136 [info ] [MainThread]:   sslcert: None
+[0m17:52:34.483150 [info ] [MainThread]:   sslkey: None
+[0m17:52:34.484507 [info ] [MainThread]:   sslrootcert: None
+[0m17:52:34.486527 [info ] [MainThread]:   application_name: dbt
+[0m17:52:34.487972 [info ] [MainThread]:   retries: 1
+[0m17:52:34.490086 [info ] [MainThread]: Registered adapter: postgres=1.9.0
+[0m17:52:35.111068 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m17:52:41.061609 [debug] [MainThread]: Using postgres connection "debug"
+[0m17:52:41.063605 [debug] [MainThread]: On debug: select 1 as id
+[0m17:52:41.064607 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m17:52:41.065605 [debug] [MainThread]: Postgres adapter: Error running SQL: select 1 as id
+[0m17:52:41.067603 [debug] [MainThread]: Postgres adapter: Rolling back transaction.
+[0m17:52:41.069604 [debug] [MainThread]: On debug: No close available on handle
+[0m17:52:41.071603 [info ] [MainThread]:   Connection test: [[31mERROR[0m]
+
+[0m17:52:41.073618 [info ] [MainThread]: [31m2 checks failed:[0m
+[0m17:52:41.076616 [info ] [MainThread]: Project loading failed for the following reason:
+ project path <C:\Users\Misirak\Desktop\ooo\telegram-medical-data-pipeline\dbt_project.yml> not found
+
+[0m17:52:41.079753 [info ] [MainThread]: dbt was unable to connect to the specified database.
+The database returned the following error:
+
+  >Database Error
+  invalid dsn: missing "=" after "Hp�" in connection info string
+  
+
+Check your database credentials and try again. For more information, visit:
+https://docs.getdbt.com/docs/configure-your-profile
+
+
+[0m17:52:41.083747 [debug] [MainThread]: Command `dbt debug` failed at 17:52:41.083747 after 7.42 seconds
+[0m17:52:41.084746 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m17:52:41.087263 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E35D3DF70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E358F7A40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E36158470>]}
+[0m17:52:41.088920 [debug] [MainThread]: Flushing usage events
+[0m17:52:41.961401 [debug] [MainThread]: An error was encountered while trying to flush usage events

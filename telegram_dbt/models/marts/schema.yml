@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: dim_channels
+    description: "Channel metadata"
+    columns:
+      - name: channel_id
+        tests:
+          - not_null
+          - unique
+
+  - name: dim_dates
+    description: "Calendar dimension"
+    columns:
+      - name: date_day
+        tests:
+          - not_null
+          - unique
+
+  - name: fct_messages
+    description: "Fact table for messages"
+    columns:
+      - name: message_id
+        tests:
+          - not_null
+          - unique
+      - name: channel_id
+        tests:
+          - not_null
+      - name: date_day
+        tests:
+          - not_null
