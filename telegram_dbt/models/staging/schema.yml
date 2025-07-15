@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stg_telegram_messages
+    description: "Staging model for Telegram messages loaded from the raw layer"
+    columns:
+      - name: id
+        description: "Message ID (not globally unique)"
+        tests:
+          - not_null
+
+      - name: text
+        description: "Message content"
+        tests: []
+
+      - name: message_date
+        description: "Timestamp of the message"
+        tests: []
+
+      - name: has_photo
+        description: "Whether the message contains a photo"
+        tests: []
+
+      - name: sender_id
+        description: "Telegram channel/group ID"
+        tests:
+          - not_null
+
+      - name: channel_name
+        description: "Name of the Telegram channel"
+        tests:
+          - not_null
+
+      - name: scraped_date
+        description: "Date when the message was scraped"
+        tests: []
