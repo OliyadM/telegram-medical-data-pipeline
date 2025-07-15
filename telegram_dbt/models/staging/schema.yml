@@ -1,5 +1,12 @@
 version: 2
 
+sources:
+  - name: enrichment
+    schema: enrichment
+    tables:
+      - name: raw_image_detections
+        description: "Raw YOLOv8 image detection results loaded from JSON enrichment step"
+
 models:
   - name: stg_telegram_messages
     description: "Staging model for Telegram messages loaded from the raw layer"
@@ -8,29 +15,39 @@ models:
         description: "Message ID (not globally unique)"
         tests:
           - not_null
-
       - name: text
         description: "Message content"
         tests: []
-
       - name: message_date
         description: "Timestamp of the message"
         tests: []
-
       - name: has_photo
         description: "Whether the message contains a photo"
         tests: []
-
       - name: sender_id
         description: "Telegram channel/group ID"
         tests:
           - not_null
-
       - name: channel_name
         description: "Name of the Telegram channel"
         tests:
           - not_null
-
       - name: scraped_date
         description: "Date when the message was scraped"
         tests: []
+
+  - name: stg_image_detections
+    description: "Staging model for image detection results from YOLO"
+    columns:
+      - name: message_id
+        description: "Foreign key to message in fct_messages"
+        tests:
+          - not_null
+      - name: image_path
+        description: "File path to the image"
+      - name: detected_class
+        description: "Object class detected by YOLO"
+      - name: confidence
+        description: "Confidence score for the detected class"
+      - name: detection_timestamp
+        description: "Timestamp when detection was performed"

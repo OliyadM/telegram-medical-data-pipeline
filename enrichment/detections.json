@@ -1,0 +1,1616 @@
+[
+  {
+    "message_id": 11,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\11.jpg",
+    "detected_class": "clock",
+    "confidence": 0.4272933602333069
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "hot dog",
+    "confidence": 0.5038560032844543
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "donut",
+    "confidence": 0.3989974856376648
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "hot dog",
+    "confidence": 0.30973342061042786
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "donut",
+    "confidence": 0.29692158102989197
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "hot dog",
+    "confidence": 0.2636592388153076
+  },
+  {
+    "message_id": 13,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\13.jpg",
+    "detected_class": "hot dog",
+    "confidence": 0.25024130940437317
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5259650349617004
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.49454933404922485
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.4317871928215027
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3873794972896576
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.38497117161750793
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3799237012863159
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.374876469373703
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3264196515083313
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2848581373691559
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.27928799390792847
+  },
+  {
+    "message_id": 17,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\17.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.27187925577163696
+  },
+  {
+    "message_id": 19,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\19.jpg",
+    "detected_class": "person",
+    "confidence": 0.9401442408561707
+  },
+  {
+    "message_id": 19,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\19.jpg",
+    "detected_class": "person",
+    "confidence": 0.9276632070541382
+  },
+  {
+    "message_id": 19,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\19.jpg",
+    "detected_class": "dining table",
+    "confidence": 0.3616376519203186
+  },
+  {
+    "message_id": 19,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\19.jpg",
+    "detected_class": "dining table",
+    "confidence": 0.32224997878074646
+  },
+  {
+    "message_id": 2,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\2.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.38718315958976746
+  },
+  {
+    "message_id": 20,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\20.jpg",
+    "detected_class": "person",
+    "confidence": 0.9401442408561707
+  },
+  {
+    "message_id": 20,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\20.jpg",
+    "detected_class": "person",
+    "confidence": 0.9276632070541382
+  },
+  {
+    "message_id": 20,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\20.jpg",
+    "detected_class": "dining table",
+    "confidence": 0.3616376519203186
+  },
+  {
+    "message_id": 20,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\20.jpg",
+    "detected_class": "dining table",
+    "confidence": 0.32224997878074646
+  },
+  {
+    "message_id": 21,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\21.jpg",
+    "detected_class": "bird",
+    "confidence": 0.2525572180747986
+  },
+  {
+    "message_id": 22,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\22.jpg",
+    "detected_class": "stop sign",
+    "confidence": 0.2775057554244995
+  },
+  {
+    "message_id": 23,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\23.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.6106981039047241
+  },
+  {
+    "message_id": 25,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\25.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.8613102436065674
+  },
+  {
+    "message_id": 25,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\25.jpg",
+    "detected_class": "person",
+    "confidence": 0.6283656358718872
+  },
+  {
+    "message_id": 26,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\26.jpg",
+    "detected_class": "person",
+    "confidence": 0.8275557160377502
+  },
+  {
+    "message_id": 26,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\26.jpg",
+    "detected_class": "cup",
+    "confidence": 0.4267366826534271
+  },
+  {
+    "message_id": 26,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\26.jpg",
+    "detected_class": "book",
+    "confidence": 0.3177131712436676
+  },
+  {
+    "message_id": 26,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\26.jpg",
+    "detected_class": "book",
+    "confidence": 0.31305086612701416
+  },
+  {
+    "message_id": 29,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\29.jpg",
+    "detected_class": "person",
+    "confidence": 0.6185224652290344
+  },
+  {
+    "message_id": 29,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\29.jpg",
+    "detected_class": "surfboard",
+    "confidence": 0.5944799780845642
+  },
+  {
+    "message_id": 29,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\29.jpg",
+    "detected_class": "person",
+    "confidence": 0.527970552444458
+  },
+  {
+    "message_id": 29,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\29.jpg",
+    "detected_class": "person",
+    "confidence": 0.2781943380832672
+  },
+  {
+    "message_id": 30,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\30.jpg",
+    "detected_class": "person",
+    "confidence": 0.4139040410518646
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5125073790550232
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.4973132312297821
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.43496695160865784
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3880819082260132
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3880271315574646
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.38319599628448486
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.37693241238594055
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3327511250972748
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2785998582839966
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2762432098388672
+  },
+  {
+    "message_id": 31,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\31.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2743058502674103
+  },
+  {
+    "message_id": 32,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\32.jpg",
+    "detected_class": "person",
+    "confidence": 0.5881935954093933
+  },
+  {
+    "message_id": 33,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\33.jpg",
+    "detected_class": "orange",
+    "confidence": 0.6712217926979065
+  },
+  {
+    "message_id": 33,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\33.jpg",
+    "detected_class": "orange",
+    "confidence": 0.5760761499404907
+  },
+  {
+    "message_id": 33,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\33.jpg",
+    "detected_class": "book",
+    "confidence": 0.2715933322906494
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.9113694429397583
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.9018736481666565
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.8929611444473267
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.6237630844116211
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.5940195918083191
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.5546780228614807
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.5261480212211609
+  },
+  {
+    "message_id": 39,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\39.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.41445085406303406
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.7191462516784668
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.6743713617324829
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.6338374614715576
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.5978040099143982
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.5868257880210876
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.5125867128372192
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.4520757496356964
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.4369908273220062
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.33164823055267334
+  },
+  {
+    "message_id": 40,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\40.jpg",
+    "detected_class": "person",
+    "confidence": 0.3312697410583496
+  },
+  {
+    "message_id": 41,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\41.jpg",
+    "detected_class": "person",
+    "confidence": 0.4210352897644043
+  },
+  {
+    "message_id": 43,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\43.jpg",
+    "detected_class": "person",
+    "confidence": 0.8564761877059937
+  },
+  {
+    "message_id": 43,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\43.jpg",
+    "detected_class": "chair",
+    "confidence": 0.29364195466041565
+  },
+  {
+    "message_id": 44,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\44.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.9386716485023499
+  },
+  {
+    "message_id": 44,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\44.jpg",
+    "detected_class": "person",
+    "confidence": 0.8479923009872437
+  },
+  {
+    "message_id": 45,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\45.jpg",
+    "detected_class": "scissors",
+    "confidence": 0.6319932341575623
+  },
+  {
+    "message_id": 46,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\46.jpg",
+    "detected_class": "person",
+    "confidence": 0.8272138833999634
+  },
+  {
+    "message_id": 46,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\46.jpg",
+    "detected_class": "person",
+    "confidence": 0.47488123178482056
+  },
+  {
+    "message_id": 46,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\46.jpg",
+    "detected_class": "tv",
+    "confidence": 0.388637512922287
+  },
+  {
+    "message_id": 49,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\49.jpg",
+    "detected_class": "kite",
+    "confidence": 0.6801517605781555
+  },
+  {
+    "message_id": 49,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\49.jpg",
+    "detected_class": "kite",
+    "confidence": 0.4033038914203644
+  },
+  {
+    "message_id": 49,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\49.jpg",
+    "detected_class": "kite",
+    "confidence": 0.34492653608322144
+  },
+  {
+    "message_id": 49,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\49.jpg",
+    "detected_class": "frisbee",
+    "confidence": 0.32522186636924744
+  },
+  {
+    "message_id": 50,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\50.jpg",
+    "detected_class": "cake",
+    "confidence": 0.2916097939014435
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "person",
+    "confidence": 0.7039297819137573
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "person",
+    "confidence": 0.6460770964622498
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "horse",
+    "confidence": 0.6252725720405579
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "person",
+    "confidence": 0.5130643844604492
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "person",
+    "confidence": 0.4309829771518707
+  },
+  {
+    "message_id": 52,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\52.jpg",
+    "detected_class": "person",
+    "confidence": 0.33477717638015747
+  },
+  {
+    "message_id": 53,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\53.jpg",
+    "detected_class": "person",
+    "confidence": 0.573768675327301
+  },
+  {
+    "message_id": 55,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\55.jpg",
+    "detected_class": "stop sign",
+    "confidence": 0.3071289360523224
+  },
+  {
+    "message_id": 56,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\56.jpg",
+    "detected_class": "person",
+    "confidence": 0.8329589366912842
+  },
+  {
+    "message_id": 58,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\58.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.41152605414390564
+  },
+  {
+    "message_id": 59,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\59.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2866169214248657
+  },
+  {
+    "message_id": 64,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\64.jpg",
+    "detected_class": "person",
+    "confidence": 0.6864551305770874
+  },
+  {
+    "message_id": 64,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\64.jpg",
+    "detected_class": "person",
+    "confidence": 0.44019317626953125
+  },
+  {
+    "message_id": 64,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\64.jpg",
+    "detected_class": "banana",
+    "confidence": 0.28093597292900085
+  },
+  {
+    "message_id": 64,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\64.jpg",
+    "detected_class": "remote",
+    "confidence": 0.25620245933532715
+  },
+  {
+    "message_id": 67,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\67.jpg",
+    "detected_class": "stop sign",
+    "confidence": 0.5792264938354492
+  },
+  {
+    "message_id": 67,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\67.jpg",
+    "detected_class": "book",
+    "confidence": 0.2841624915599823
+  },
+  {
+    "message_id": 70,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\70.jpg",
+    "detected_class": "potted plant",
+    "confidence": 0.9247003793716431
+  },
+  {
+    "message_id": 70,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\70.jpg",
+    "detected_class": "person",
+    "confidence": 0.8443222045898438
+  },
+  {
+    "message_id": 70,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\70.jpg",
+    "detected_class": "book",
+    "confidence": 0.4226498603820801
+  },
+  {
+    "message_id": 71,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\71.jpg",
+    "detected_class": "person",
+    "confidence": 0.8835617899894714
+  },
+  {
+    "message_id": 71,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\71.jpg",
+    "detected_class": "person",
+    "confidence": 0.8042728900909424
+  },
+  {
+    "message_id": 75,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\75.jpg",
+    "detected_class": "person",
+    "confidence": 0.8353008031845093
+  },
+  {
+    "message_id": 76,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\76.jpg",
+    "detected_class": "person",
+    "confidence": 0.8694230914115906
+  },
+  {
+    "message_id": 76,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\76.jpg",
+    "detected_class": "chair",
+    "confidence": 0.2723301351070404
+  },
+  {
+    "message_id": 76,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\76.jpg",
+    "detected_class": "chair",
+    "confidence": 0.251775324344635
+  },
+  {
+    "message_id": 77,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\77.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9558240175247192
+  },
+  {
+    "message_id": 77,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\77.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9073091149330139
+  },
+  {
+    "message_id": 77,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\77.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8960535526275635
+  },
+  {
+    "message_id": 77,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\77.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8936647176742554
+  },
+  {
+    "message_id": 78,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\78.jpg",
+    "detected_class": "person",
+    "confidence": 0.7698584198951721
+  },
+  {
+    "message_id": 78,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\78.jpg",
+    "detected_class": "person",
+    "confidence": 0.35558605194091797
+  },
+  {
+    "message_id": 80,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\80.jpg",
+    "detected_class": "person",
+    "confidence": 0.9279417395591736
+  },
+  {
+    "message_id": 80,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\80.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7433301210403442
+  },
+  {
+    "message_id": 80,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\80.jpg",
+    "detected_class": "chair",
+    "confidence": 0.5636420845985413
+  },
+  {
+    "message_id": 81,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\81.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8817967176437378
+  },
+  {
+    "message_id": 81,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\81.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8326680064201355
+  },
+  {
+    "message_id": 81,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\81.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8216720819473267
+  },
+  {
+    "message_id": 81,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\81.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8041242957115173
+  },
+  {
+    "message_id": 81,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\81.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7617479562759399
+  },
+  {
+    "message_id": 82,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\82.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8991734981536865
+  },
+  {
+    "message_id": 82,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\82.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.842499315738678
+  },
+  {
+    "message_id": 82,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\82.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7403752207756042
+  },
+  {
+    "message_id": 82,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\82.jpg",
+    "detected_class": "apple",
+    "confidence": 0.4784528315067291
+  },
+  {
+    "message_id": 86,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\86.jpg",
+    "detected_class": "person",
+    "confidence": 0.9013166427612305
+  },
+  {
+    "message_id": 86,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\86.jpg",
+    "detected_class": "refrigerator",
+    "confidence": 0.3570435643196106
+  },
+  {
+    "message_id": 87,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\87.jpg",
+    "detected_class": "parking meter",
+    "confidence": 0.2785610556602478
+  },
+  {
+    "message_id": 9,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\9.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.38718315958976746
+  },
+  {
+    "message_id": 90,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\90.jpg",
+    "detected_class": "book",
+    "confidence": 0.30780065059661865
+  },
+  {
+    "message_id": 93,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\93.jpg",
+    "detected_class": "person",
+    "confidence": 0.9076734185218811
+  },
+  {
+    "message_id": 94,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\94.jpg",
+    "detected_class": "cup",
+    "confidence": 0.7408690452575684
+  },
+  {
+    "message_id": 94,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\94.jpg",
+    "detected_class": "person",
+    "confidence": 0.475845068693161
+  },
+  {
+    "message_id": 94,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\94.jpg",
+    "detected_class": "cup",
+    "confidence": 0.3855975270271301
+  },
+  {
+    "message_id": 95,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\95.jpg",
+    "detected_class": "person",
+    "confidence": 0.8684405088424683
+  },
+  {
+    "message_id": 95,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\95.jpg",
+    "detected_class": "person",
+    "confidence": 0.49181684851646423
+  },
+  {
+    "message_id": 96,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\CheMed123\\96.jpg",
+    "detected_class": "cup",
+    "confidence": 0.3260037302970886
+  },
+  {
+    "message_id": 18428,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18428.jpg",
+    "detected_class": "stop sign",
+    "confidence": 0.34947654604911804
+  },
+  {
+    "message_id": 18431,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18431.jpg",
+    "detected_class": "scissors",
+    "confidence": 0.3376496732234955
+  },
+  {
+    "message_id": 18431,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18431.jpg",
+    "detected_class": "remote",
+    "confidence": 0.31677353382110596
+  },
+  {
+    "message_id": 18435,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18435.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8049421310424805
+  },
+  {
+    "message_id": 18436,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18436.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.475111186504364
+  },
+  {
+    "message_id": 18440,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18440.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.4572085738182068
+  },
+  {
+    "message_id": 18442,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18442.jpg",
+    "detected_class": "orange",
+    "confidence": 0.4311242699623108
+  },
+  {
+    "message_id": 18442,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18442.jpg",
+    "detected_class": "book",
+    "confidence": 0.4252508878707886
+  },
+  {
+    "message_id": 18443,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18443.jpg",
+    "detected_class": "cup",
+    "confidence": 0.5256255269050598
+  },
+  {
+    "message_id": 18444,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18444.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.6888154149055481
+  },
+  {
+    "message_id": 18446,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18446.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.475111186504364
+  },
+  {
+    "message_id": 18448,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18448.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.579177737236023
+  },
+  {
+    "message_id": 18450,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18450.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.46266862750053406
+  },
+  {
+    "message_id": 18452,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18452.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8049421310424805
+  },
+  {
+    "message_id": 18454,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18454.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9407609105110168
+  },
+  {
+    "message_id": 18454,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18454.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.40567681193351746
+  },
+  {
+    "message_id": 18455,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18455.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9543538093566895
+  },
+  {
+    "message_id": 18455,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18455.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.347308486700058
+  },
+  {
+    "message_id": 18456,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18456.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8416873812675476
+  },
+  {
+    "message_id": 18457,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18457.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7361109256744385
+  },
+  {
+    "message_id": 18457,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18457.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.47003981471061707
+  },
+  {
+    "message_id": 18457,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18457.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.30750519037246704
+  },
+  {
+    "message_id": 18457,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18457.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2992728054523468
+  },
+  {
+    "message_id": 18458,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18458.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.735706627368927
+  },
+  {
+    "message_id": 18458,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18458.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.43583735823631287
+  },
+  {
+    "message_id": 18458,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18458.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.42845964431762695
+  },
+  {
+    "message_id": 18458,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18458.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.41527533531188965
+  },
+  {
+    "message_id": 18458,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18458.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3795345723628998
+  },
+  {
+    "message_id": 18460,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18460.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9070143103599548
+  },
+  {
+    "message_id": 18461,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18461.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2864684760570526
+  },
+  {
+    "message_id": 18462,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18462.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3327355682849884
+  },
+  {
+    "message_id": 18466,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18466.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.5484045743942261
+  },
+  {
+    "message_id": 18467,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18467.jpg",
+    "detected_class": "book",
+    "confidence": 0.27538084983825684
+  },
+  {
+    "message_id": 18468,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18468.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.42714253067970276
+  },
+  {
+    "message_id": 18468,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18468.jpg",
+    "detected_class": "tv",
+    "confidence": 0.29556968808174133
+  },
+  {
+    "message_id": 18468,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18468.jpg",
+    "detected_class": "refrigerator",
+    "confidence": 0.25787338614463806
+  },
+  {
+    "message_id": 18474,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18474.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7860787510871887
+  },
+  {
+    "message_id": 18474,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18474.jpg",
+    "detected_class": "vase",
+    "confidence": 0.4042917490005493
+  },
+  {
+    "message_id": 18475,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18475.jpg",
+    "detected_class": "person",
+    "confidence": 0.5572372078895569
+  },
+  {
+    "message_id": 18476,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18476.jpg",
+    "detected_class": "scissors",
+    "confidence": 0.5893476605415344
+  },
+  {
+    "message_id": 18476,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18476.jpg",
+    "detected_class": "clock",
+    "confidence": 0.2823437750339508
+  },
+  {
+    "message_id": 18478,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18478.jpg",
+    "detected_class": "cup",
+    "confidence": 0.5256255269050598
+  },
+  {
+    "message_id": 18480,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18480.jpg",
+    "detected_class": "person",
+    "confidence": 0.3759154677391052
+  },
+  {
+    "message_id": 18482,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18482.jpg",
+    "detected_class": "stop sign",
+    "confidence": 0.34947654604911804
+  },
+  {
+    "message_id": 18485,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18485.jpg",
+    "detected_class": "cup",
+    "confidence": 0.586892306804657
+  },
+  {
+    "message_id": 18485,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18485.jpg",
+    "detected_class": "dining table",
+    "confidence": 0.3505169451236725
+  },
+  {
+    "message_id": 18485,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18485.jpg",
+    "detected_class": "cup",
+    "confidence": 0.30867326259613037
+  },
+  {
+    "message_id": 18486,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18486.jpg",
+    "detected_class": "cup",
+    "confidence": 0.5256255269050598
+  },
+  {
+    "message_id": 18487,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18487.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.475111186504364
+  },
+  {
+    "message_id": 18488,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18488.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7078443765640259
+  },
+  {
+    "message_id": 18489,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18489.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.5484045743942261
+  },
+  {
+    "message_id": 18490,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18490.jpg",
+    "detected_class": "refrigerator",
+    "confidence": 0.3853358030319214
+  },
+  {
+    "message_id": 18491,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18491.jpg",
+    "detected_class": "person",
+    "confidence": 0.3759154677391052
+  },
+  {
+    "message_id": 18492,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18492.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.46266862750053406
+  },
+  {
+    "message_id": 18494,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18494.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.4572085738182068
+  },
+  {
+    "message_id": 18495,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18495.jpg",
+    "detected_class": "orange",
+    "confidence": 0.4311242699623108
+  },
+  {
+    "message_id": 18495,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18495.jpg",
+    "detected_class": "book",
+    "confidence": 0.4252508878707886
+  },
+  {
+    "message_id": 18498,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18498.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5707799792289734
+  },
+  {
+    "message_id": 18499,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18499.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.6267699599266052
+  },
+  {
+    "message_id": 18501,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18501.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9407609105110168
+  },
+  {
+    "message_id": 18501,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18501.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.40567681193351746
+  },
+  {
+    "message_id": 18502,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18502.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9543538093566895
+  },
+  {
+    "message_id": 18502,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18502.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.347308486700058
+  },
+  {
+    "message_id": 18503,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18503.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8416873812675476
+  },
+  {
+    "message_id": 18504,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18504.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7361109256744385
+  },
+  {
+    "message_id": 18504,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18504.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.47003981471061707
+  },
+  {
+    "message_id": 18504,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18504.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.30750519037246704
+  },
+  {
+    "message_id": 18504,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18504.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.2992728054523468
+  },
+  {
+    "message_id": 18505,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18505.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.735706627368927
+  },
+  {
+    "message_id": 18505,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18505.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.43583735823631287
+  },
+  {
+    "message_id": 18505,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18505.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.42845964431762695
+  },
+  {
+    "message_id": 18505,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18505.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.41527533531188965
+  },
+  {
+    "message_id": 18505,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18505.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3795345723628998
+  },
+  {
+    "message_id": 18506,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18506.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.9070143103599548
+  },
+  {
+    "message_id": 18507,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18507.jpg",
+    "detected_class": "scissors",
+    "confidence": 0.3376496732234955
+  },
+  {
+    "message_id": 18507,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18507.jpg",
+    "detected_class": "remote",
+    "confidence": 0.31677353382110596
+  },
+  {
+    "message_id": 18509,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18509.jpg",
+    "detected_class": "book",
+    "confidence": 0.5679153203964233
+  },
+  {
+    "message_id": 18511,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18511.jpg",
+    "detected_class": "microwave",
+    "confidence": 0.38180065155029297
+  },
+  {
+    "message_id": 18514,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18514.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.5484045743942261
+  },
+  {
+    "message_id": 18515,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18515.jpg",
+    "detected_class": "book",
+    "confidence": 0.27538084983825684
+  },
+  {
+    "message_id": 18518,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18518.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.4572085738182068
+  },
+  {
+    "message_id": 18521,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18521.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.579177737236023
+  },
+  {
+    "message_id": 18522,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18522.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8049421310424805
+  },
+  {
+    "message_id": 18524,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18524.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5707799792289734
+  },
+  {
+    "message_id": 18526,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18526.jpg",
+    "detected_class": "cup",
+    "confidence": 0.5256255269050598
+  },
+  {
+    "message_id": 18527,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\lobelia4cosmetics\\18527.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.6888154149055481
+  },
+  {
+    "message_id": 172067,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172067.jpg",
+    "detected_class": "mouse",
+    "confidence": 0.40336376428604126
+  },
+  {
+    "message_id": 172071,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172071.jpg",
+    "detected_class": "person",
+    "confidence": 0.2510712444782257
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.8580024242401123
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.7146088480949402
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.5817902684211731
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.569370448589325
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.3922382891178131
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.3075723350048065
+  },
+  {
+    "message_id": 172077,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172077.jpg",
+    "detected_class": "person",
+    "confidence": 0.25199857354164124
+  },
+  {
+    "message_id": 172092,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172092.jpg",
+    "detected_class": "remote",
+    "confidence": 0.8464216589927673
+  },
+  {
+    "message_id": 172099,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172099.jpg",
+    "detected_class": "person",
+    "confidence": 0.8219215869903564
+  },
+  {
+    "message_id": 172100,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172100.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.7938735485076904
+  },
+  {
+    "message_id": 172100,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172100.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5201928615570068
+  },
+  {
+    "message_id": 172100,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172100.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.46026188135147095
+  },
+  {
+    "message_id": 172100,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172100.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.34918156266212463
+  },
+  {
+    "message_id": 172112,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172112.jpg",
+    "detected_class": "tv",
+    "confidence": 0.8252825736999512
+  },
+  {
+    "message_id": 172112,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172112.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.2875468134880066
+  },
+  {
+    "message_id": 172113,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172113.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.5610780119895935
+  },
+  {
+    "message_id": 172114,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172114.jpg",
+    "detected_class": "cell phone",
+    "confidence": 0.4846603572368622
+  },
+  {
+    "message_id": 172135,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172135.jpg",
+    "detected_class": "person",
+    "confidence": 0.8520635366439819
+  },
+  {
+    "message_id": 172135,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172135.jpg",
+    "detected_class": "person",
+    "confidence": 0.8393110632896423
+  },
+  {
+    "message_id": 172138,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172138.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8928288221359253
+  },
+  {
+    "message_id": 172138,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172138.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5385585427284241
+  },
+  {
+    "message_id": 172138,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172138.jpg",
+    "detected_class": "cup",
+    "confidence": 0.2716161608695984
+  },
+  {
+    "message_id": 172139,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172139.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5854963660240173
+  },
+  {
+    "message_id": 172139,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172139.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3496513068675995
+  },
+  {
+    "message_id": 172139,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172139.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.32093727588653564
+  },
+  {
+    "message_id": 172139,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172139.jpg",
+    "detected_class": "person",
+    "confidence": 0.30658480525016785
+  },
+  {
+    "message_id": 172172,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172172.jpg",
+    "detected_class": "bus",
+    "confidence": 0.30567628145217896
+  },
+  {
+    "message_id": 172172,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172172.jpg",
+    "detected_class": "truck",
+    "confidence": 0.26565659046173096
+  },
+  {
+    "message_id": 172178,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172178.jpg",
+    "detected_class": "remote",
+    "confidence": 0.8464216589927673
+  },
+  {
+    "message_id": 172209,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172209.jpg",
+    "detected_class": "clock",
+    "confidence": 0.5368808507919312
+  },
+  {
+    "message_id": 172218,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172218.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.8928288221359253
+  },
+  {
+    "message_id": 172218,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172218.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5385585427284241
+  },
+  {
+    "message_id": 172218,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172218.jpg",
+    "detected_class": "cup",
+    "confidence": 0.2716161608695984
+  },
+  {
+    "message_id": 172219,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172219.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.5854963660240173
+  },
+  {
+    "message_id": 172219,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172219.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.3496513068675995
+  },
+  {
+    "message_id": 172219,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172219.jpg",
+    "detected_class": "bottle",
+    "confidence": 0.32093727588653564
+  },
+  {
+    "message_id": 172219,
+    "image_path": "data/raw/telegram_images\\2025-07-11\\tikvahpharma\\172219.jpg",
+    "detected_class": "person",
+    "confidence": 0.30658480525016785
+  }
+]
