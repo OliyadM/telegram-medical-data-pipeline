@@ -227,3 +227,18 @@ https://docs.getdbt.com/docs/configure-your-profile
 [0m17:52:41.087263 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E35D3DF70>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E358F7A40>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000024E36158470>]}
 [0m17:52:41.088920 [debug] [MainThread]: Flushing usage events
 [0m17:52:41.961401 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m15:19:34.005448 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB985E4B30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB98280E60>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB985E56A0>]}
+
+
+============================== 15:19:34.020914 | 8772ca8f-754a-469a-a50d-8270ffb06492 ==============================
+[0m15:19:34.020914 [info ] [MainThread]: Running with dbt=1.10.4
+[0m15:19:34.023910 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': 'C:\\Users\\Misirak\\.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'invocation_command': 'dbt run', 'static_parser': 'True', 'log_format': 'default', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m15:19:34.024908 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path C:\Users\Misirak\Desktop\ooo\telegram-medical-data-pipeline\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m15:19:34.027911 [debug] [MainThread]: Command `dbt run` failed at 15:19:34.026910 after 0.43 seconds
+[0m15:19:34.028910 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB980CECF0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB98C0E780>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000001CB98C0FFB0>]}
+[0m15:19:34.029917 [debug] [MainThread]: Flushing usage events
+[0m15:19:35.293094 [debug] [MainThread]: An error was encountered while trying to flush usage events

@@ -1,15 +1,20 @@
 WITH raw_messages AS (
     SELECT *
     FROM {{ ref('stg_telegram_messages') }}
-    WHERE NOT (text IS NULL AND has_photo = FALSE)  -- filter out empty messages without photos
+    WHERE NOT (text IS NULL AND has_photo = FALSE)
+),
+
+messages_with_dims AS (
+    SELECT
+        rm.id AS message_id,
+        rm.sender_id AS channel_id,
+        rm.message_date::date AS date_day,
+        rm.text AS message_text,
+        LENGTH(rm.text) AS message_length,
+        rm.has_photo
+    FROM raw_messages rm
+    INNER JOIN {{ ref('dim_channels') }} dc ON rm.sender_id = dc.channel_id
+    INNER JOIN {{ ref('dim_dates') }} dd ON rm.message_date::date = dd.date_day
 )
 
-SELECT DISTINCT
-    raw_messages.id AS message_id,
-    raw_messages.sender_id AS channel_id,
-    raw_messages.message_date::date AS date_day,  -- <-- fix column name here
-    raw_messages.text AS message_text,
-    LENGTH(raw_messages.text) AS message_length,
-    raw_messages.has_photo
-FROM raw_messages
-WHERE raw_messages.id IS NOT NULL
+SELECT DISTINCT * FROM messages_with_dims

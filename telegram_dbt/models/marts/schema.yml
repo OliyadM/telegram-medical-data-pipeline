@@ -2,31 +2,57 @@ version: 2
 
 models:
   - name: dim_channels
-    description: "Channel metadata"
+    description: "Dimension table containing metadata about Telegram channels"
     columns:
       - name: channel_id
+        description: "Unique identifier for the channel"
         tests:
           - not_null
           - unique
+      - name: channel_name
+        description: "Name of the channel"
 
   - name: dim_dates
-    description: "Calendar dimension"
+    description: "Calendar dimension for supporting date-based analysis"
     columns:
       - name: date_day
+        description: "The actual date"
         tests:
           - not_null
           - unique
+      - name: day
+        description: "Day number (1-31)"
+      - name: month
+        description: "Month number (1-12)"
+      - name: year
+        description: "Year"
+      - name: day_of_week
+        description: "Day of week (0=Sunday)"
 
   - name: fct_messages
-    description: "Fact table for messages"
+    description: "Fact table storing core message events with references to dimension tables"
     columns:
       - name: message_id
+        description: "Unique message identifier"
         tests:
           - not_null
           - unique
       - name: channel_id
+        description: "Foreign key to dim_channels"
         tests:
           - not_null
       - name: date_day
+        description: "Foreign key to dim_dates"
         tests:
           - not_null
+      - name: message_text
+        description: "Text content of the message"
+      - name: message_length
+        description: "Character length of message"
+      - name: has_photo
+        description: "Boolean flag indicating photo presence"
+
+tests:
+  - name: no_empty_messages
+    description: "Messages must have either text or photo"
+    severity: error
