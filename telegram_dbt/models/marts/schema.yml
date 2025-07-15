@@ -52,6 +52,38 @@ models:
       - name: has_photo
         description: "Boolean flag indicating photo presence"
 
+  - name: fct_image_detections
+    description: "Fact table containing image detection results linked to messages"
+    columns:
+      - name: message_id
+        description: "Foreign key to fct_messages"
+        tests:
+          - not_null
+          - relationships:
+              to: ref('fct_messages')
+              field: message_id
+
+      - name: detected_class
+        description: "Object class detected in the image"
+        tests:
+          - not_null
+
+      - name: confidence
+        description: "Confidence score of the detection"
+        tests: []
+
+      - name: detection_timestamp
+        description: "When the detection was performed"
+        tests: []
+
+      - name: channel_id
+        description: "Channel that posted the image"
+        tests: []
+
+      - name: message_date
+        description: "Date when the message was posted"
+        tests: []
+
 tests:
   - name: no_empty_messages
     description: "Messages must have either text or photo"
